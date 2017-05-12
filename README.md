@@ -1,2 +1,3 @@
-# Throbber_In_Urlbar
+# Throbber In Urlbar
+
 Puts throbber into Urlbar
